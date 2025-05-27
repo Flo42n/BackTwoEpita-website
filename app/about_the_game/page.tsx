@@ -38,7 +38,7 @@ export default function AboutTheGame() {
             <h2 className="text-2xl font-bold mb-4 text-center text-black">
               Want to play?
             </h2>
-            <a href="https://github.com/Alow01/BackTwoEpita/releases/tag/v1">
+            <a href="https://github.com/Alow01/BackTwoEpita/releases/tag/v2">
               <Button>Download our game!</Button>
             </a>
 
@@ -93,7 +93,7 @@ export default function AboutTheGame() {
             <h2 className="text-2xl font-bold mb-4 text-center text-black">
               How do I play the game?
             </h2>
-            <a href="/files/rapport2.pdf" download="manueldinstallation">
+            <a href="/files/UserManual.pdf" download="manueldinstallation">
               <Button>Installation and user manual</Button>
             </a>
           </div>
@@ -104,7 +104,7 @@ export default function AboutTheGame() {
             <h2 className="text-2xl font-bold mb-4 text-center text-black">
               Download our most recent report
             </h2>
-            <a href="/files/rapport2.pdf" download="rapport2">
+            <a href="/files/FinalReport.pdf" download="Final Report">
               <Button>Download Report</Button>
             </a>
           </div>
